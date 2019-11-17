@@ -1,4 +1,5 @@
 # 2019 고려대학교 프로그래밍 경시대회
+<img src='./banner.png' width=50% height=50%>
 
 ## 대회 개요
 
