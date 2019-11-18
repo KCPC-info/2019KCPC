@@ -82,7 +82,7 @@ contactkcpc@gmail.com
 
 ALPS 이세정 010-9132-3891
 
-AlKor 이상헌 010-9372-3466
+AlKor 이동관 010-3041-2890
 
 
 
