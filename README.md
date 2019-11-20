@@ -1,6 +1,6 @@
 # 2019 고려대학교 프로그래밍 경시대회
 
-대회에 관한 자세한 내용은 <a href=https://github.com/KCPC-info/2019KCPC#%EB%8C%80%ED%9A%8C-%EA%B0%9C%EC%9A%94>아래</a>를 참고해 주세요.
+대회에 관한 자세한 내용은 <a href=https://github.com/KCPC-info/2019KCPC/blob/master/README.md#%EB%8C%80%ED%9A%8C-%EA%B0%9C%EC%9A%94>아래 README 전체</a>를 참고해 주세요.
 
 ## 신청
 
